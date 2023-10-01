@@ -1,0 +1,235 @@
+  /*header style*/
+.header {
+    display: flex;
+    padding-top: 69px;
+    padding-left: 162px;
+}
+.nav {
+    padding-left: 150px;
+}
+.logo {
+    display: grid;
+}
+.text-logo {
+    padding-top: 10px;
+    font-size: 38px;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding-left: 8.21px;
+    display: grid;
+}
+.li-item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #274C5B;
+    padding-top: 25.36px;
+}
+.logo-div {
+    display: flex;
+}
+.icon {
+    border: 1.5px;
+    width: 15px;
+    padding-top: 11px;
+}
+/*section first*/
+.baner {
+    width: 100%;
+    padding-top: 85.28px;
+}
+.div-photo {
+    padding-left: 260px;
+    margin-top: 182px;
+}
+.parent-div { 
+    justify-content: center;
+}
+.div-son {
+    padding-left: 492px;
+    padding-top: 78px;
+}
+.div-head {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    color: #274C5B;
+    line-height: 58.59px;
+}
+.div-text {
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 29.77px;
+    width: 936px;
+    height: 180px;
+    margin-top: 28px;
+}
+/*second part of section*/
+.div-img {
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    
+}
+.div-sec {
+    display: flex;
+    justify-content: centera;
+    align-items: center;
+    padding-left: 492px;
+    padding-top: 70px;
+}
+.paragraph {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    width: 447px;
+    height: 90px;
+    color: #525C60;
+    line-height: 29.77px;
+}
+.div-h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #274C5B;
+    font-weight: 500;
+    font-size: 25px;
+}
+.info-div {
+    margin-left: 20px;
+    background-color: #F9F8F8;
+}
+.div-small {
+    padding: 63px 45px 63px 45px;
+}
+.info-div2 {
+    margin-right: 20px;
+    background-color: #F9F8F8;
+}
+/*third part of section*/
+.h-box {
+    color: #274C5B;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+}
+.shadow {
+    text-shadow: opx 4px 4px 0px #00000040;
+}
+.text-box {
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    width: 936px;
+    height: 90px;
+    margin-top: 11px;
+    line-height: 29.77px;
+}
+.div-third {
+    padding-left: 492px;
+    padding-top: 70px;
+}
+.photo-last {
+    border-radius: 30px;
+}
+.image-div {
+    padding-left: 260px;
+    padding-top: 97px;
+}
+/*footer*/
+.footer-box {
+    display: flex;
+    padding-top: 60px ;
+}
+.footer-container {
+    padding-left: 255px;
+}
+.footer-head {
+    color: #274C5B;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-bottom: 33px;
+}
+.foot-span {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #525C60;
+}
+.foot-li {
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.7px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 12px;
+    padding-bottom: 30px;
+}
+.mom-div {
+    padding-left: 142px;
+    text-align: center;
+}
+.footer-logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+.text-lg {
+    display: inline-block;
+    vertical-align: middle;
+    color: #274C5B;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+}
+.footer-p {
+    width: 543px ;
+    font-family: 'Open Sans', sans-serif;
+    color: #525C60;
+    font-size: 18px;
+    line-height: 29.77px;
+}
+.div-pages {
+    padding-left: 143px;
+}
+.footer-h {
+    font-size: 30px;
+    font-weight: 700;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px;
+}
+
+.li-style {
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.7px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 20px;
+}
+.fot-div {
+    padding-bottom: 23px;
+}
+.end-div {
+    display: flex;
+    justify-content: center;
+    padding-top: 17px;
+}
+.bolded {margin-right: 5px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    color: #525C60;
+}
+.main {
+    margin-right: 5px;
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
